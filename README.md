@@ -1,4 +1,5 @@
-**Dogs vs Cats Classification**
+_**Dogs vs Cats Classification**_
+
 This project focuses on building a Convolutional Neural Network (CNN) to classify images as either dogs or cats. The dataset used is the "Dogs vs Cats" dataset from Kaggle.
 
 **Project Workflow**
